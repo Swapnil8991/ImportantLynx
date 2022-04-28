@@ -1,1 +1,9 @@
 Interview Prep Map: https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link
+
+CPP Cheatsheet: https://opensourcelibs.com/lib/cpp-cheatsheet
+
+Regex-Cheatsheet: https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
+
+DSA: https://github.com/trekhleb/javascript-algorithms
+	 https://github.com/sachuverma/DataStructures-Algorithms/tree/master/DSA%20Crack%20Sheet
+	 https://github.com/huihut/interview/blob/master/README_en.md#cc
